@@ -1,0 +1,25 @@
+{
+  "active_tab": 0,
+  "single": {
+    "selected_function": "trig",
+    "x": "1",
+    "result_text": "Результат: y(1.0) = 1.14264"
+  },
+  "table": {
+    "selected_function": "trig",
+    "a": "",
+    "b": "",
+    "n": "",
+    "rows": []
+  },
+  "graph": {
+    "selected_function": "trig",
+    "a": "",
+    "b": "",
+    "n": "",
+    "rows": [],
+    "color_index": 0,
+    "width": 2,
+    "style_index": 0
+  }
+}
